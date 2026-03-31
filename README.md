@@ -28,8 +28,8 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mauchina&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauchina&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mauchinatools&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauchinatools&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
 ---
@@ -42,8 +42,7 @@
 ## 🚀 Featured Projects
 
 ### 🎬 Cinema Registration System
-✨ Web-based cinema system (Django)
-- 🎟️ Ticket booking system  
+✨ Web-based Library system (Django)
 - 👤 User registration  
 - 📊 Data management  
 - ⚡ Local deployment  
@@ -70,6 +69,6 @@
 
 ## ⚙️ Installation
 ```bash
-git clone https://github.com/USERNAME/project-name.git
+git clone https://github.com/mauchina/mauchinatools.git
 cd project-name
 python manage.py runserver
