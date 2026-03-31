@@ -34,10 +34,8 @@
 
 ---
 
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
+## 🔥 MAUCHINA
+
 
 ---
 
@@ -67,11 +65,6 @@
 </p>
 
 ---
-
-## 📷 Project Preview (Glass Style)
-<p align="center">
-  <img src="https://via.placeholder.com/500x250.png?text=Your+Project+Preview" style="border-radius:15px;opacity:0.9;" />
-</p>
 
 ---
 
