@@ -1,30 +1,82 @@
-<h1 align="center">Hi 👋, I'm Ari Frenky dos Santos</h1>
-<h3 align="center">Informatics Student from Timor-Leste 🇹🇱</h3>
+<h1 align="center">Hi 👋, I'm Ari Frenky Dos Santos</h1>
+<h3 align="center">💻 Informatics Student from UNTL | Future Developer & Accountant 🌍</h3>
 
----
-
-### 🚀 About Me
-- 🎓 Informatics Student
-- 💻 Learning Django & Web Development
-- 🌍 Dream: Study Abroad
-
----
-
-### 🛠️ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,linux" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;Django+Developer;Accounting+Student;Future+International+Professional" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
+## 🌌 About Me
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- 🎓 Informatics Student (4th Semester)
+- 📊 Focus: Financial Accounting & Forensic Accounting  
+- 💻 Currently learning **Python, Django & Web Development**  
+- 🌍 Dream: Study abroad (USA) & work in international company  
+- 🎯 Goal: Become a **Professional Developer + Accountant**  
+- 📚 Improving: English Speaking & Excel Skills  
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,linux,git,github,vscode" />
 </p>
 
 ---
 
-### 🔥 Streak
-<p>
-  <img src="https://streak-stats.demolab.com/?user=USERNAME&theme=tokyonight" />
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
+
+---
+
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎬 Cinema Registration System
+✨ Web-based cinema system (Django)
+- 🎟️ Ticket booking system  
+- 👤 User registration  
+- 📊 Data management  
+- ⚡ Local deployment  
+
+---
+
+### 🎓 Academic Information System
+✨ Academic data management system
+- 📚 Student & course data  
+- 🧾 CRUD system  
+- 📊 Organized database  
+- 🖥️ Admin dashboard  
+
+---
+
+## 🧠 Current Focus
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&center=true&vCenter=true&lines=Learning+Django+Deeply;Building+Real+Projects;Improving+English;Preparing+for+Scholarship" />
+</p>
+
+---
+
+## 📷 Project Preview (Glass Style)
+<p align="center">
+  <img src="https://via.placeholder.com/500x250.png?text=Your+Project+Preview" style="border-radius:15px;opacity:0.9;" />
+</p>
+
+---
+
+## ⚙️ Installation
+```bash
+git clone https://github.com/USERNAME/project-name.git
+cd project-name
+python manage.py runserver
