@@ -26,16 +26,17 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 🧠 Current Focus
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mauchinatools&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauchinatools&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&center=true&vCenter=true&lines=Learning+Django;Building+Real+Projects;Improving+English;Preparing+for+Scholarship" />
 </p>
 
 ---
 
 ## 🔥 MAUCHINA
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&center=true&vCenter=true&lines=Never+Give+Up;Keep+Learning;Dream+Big;Success+Needs+Process" />
+</p>
 
 ---
 
