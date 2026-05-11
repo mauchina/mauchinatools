@@ -71,5 +71,3 @@
 ## ⚙️ Installation
 ```bash
 git clone https://github.com/mauchina/mauchinatools.git
-cd project-name
-python manage.py runserver
