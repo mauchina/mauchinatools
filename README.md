@@ -10,7 +10,7 @@
 ## 🌌 About Me
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🎓 Informatics Student (4th Semester)
+- 🎓 Informatics Student (7th Semester)
 - 📊 Focus: Financial Accounting & Forensic Accounting  
 - 💻 Currently learning **Python, Django & Web Development**  
 - 🌍 Dream: Study abroad (USA) & work in international company  
